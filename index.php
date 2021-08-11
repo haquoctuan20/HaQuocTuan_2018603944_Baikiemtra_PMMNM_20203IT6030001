@@ -19,6 +19,21 @@
 ?>
 	<div class="container-fluid">
 		<h1>Đăng ký tiêm vaccine covid 19</h1>
+
+		<form action="">
+			<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+			<label class="form-check-label" for="flexCheckDefault">
+				Đăng ký bản thân 
+			</label>
+			</div>
+			<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+			<label class="form-check-label" for="flexCheckChecked">
+				Đăng ký cho người thân
+			</label>
+			</div>
+		</form>
 	</div>
 
 	<!--  -->
